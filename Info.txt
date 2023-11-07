@@ -1,0 +1,5 @@
+Student_id : NesutoRBS
+Student Name : Ratchanan Vathanasanti
+Major : IT
+Level : 1
+Faculty : Information Technology
