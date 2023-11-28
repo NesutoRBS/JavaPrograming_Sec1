@@ -14,7 +14,7 @@ public class Lab401 {
 		}
 		System.out.println();
 		int count = x+1, initialSum = x + count, newSum = 0;
-		System.out.println(x + " + " + y + " = " + initialSum);
+		System.out.println(x + " + " + count + " = " + initialSum);
 		count++;
 		while(count <= y) {
 			newSum = initialSum + count;
