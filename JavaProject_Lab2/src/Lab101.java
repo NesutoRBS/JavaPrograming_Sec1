@@ -21,7 +21,5 @@ public class Lab101 {
 		System.out.println("---------------------------------------");
 		System.out.println("Discount from "+ discount + "(%)\t" + frm.format(totalPrice*discount/100) + " baht.");
 		System.out.println("Amount to be paid \t" + frm.format(totalPrice*(100-discount)/100) + " baht.");
-
 	}
-NO
 }
