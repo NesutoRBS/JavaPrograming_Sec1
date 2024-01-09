@@ -36,17 +36,17 @@ public class TestPiggyBank {
 			else if (choice == 2)
 			{
 				System.out.print("Insert 2 Baht Money : ");
-				pb.addOne(scan.nextInt());
+				pb.addTwo(scan.nextInt());
 			}
 			else if (choice == 3)
 			{
 				System.out.print("Insert 5 Baht Money : ");
-				pb.addOne(scan.nextInt());
+				pb.addFive(scan.nextInt());
 			}
 			else if (choice == 4)
 			{
 				System.out.print("Insert 10 Baht Money : ");
-				pb.addOne(scan.nextInt());
+				pb.addTen(scan.nextInt());
 			}
 			else if (choice == 5) {
 				System.out.print("Bye Bye");
